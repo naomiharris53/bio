@@ -1,0 +1,63 @@
+h1 {
+ font-family: 'Passion One', cursive;
+ color: white;
+}
+p {
+	color:white;
+	font-family: 'Francois One', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+
+}
+
+ul {
+	padding: 0;
+}
+li {
+	color: white;
+	font-family: 'Francois One', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+	list-style-type: none;
+	padding: 10px 0;
+	border-bottom: 4px solid #203352;
+}
+
+img {
+	width: 100%;
+	box-shadow: 5px 5px 19px rgba(0,0,0, .5);
+}
+
+
+.first {
+ 	background-image:url(img/top-image.jpg);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	height: 100vh;
+
+ }
+
+ .second {
+ 	background-color: #680015;
+ 	padding: 100px 0;
+ }
+
+ .third {
+ 	background-color: #2B4570;
+ 	padding: 100px 0;
+ }
+
+.fourth {
+ 	background-color: #64686F;
+ 	padding: 100px 0;
+ }
+
+ .fifth {
+    background-image:url(IMG/CAMO.JPG.png);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	height: 100vh;
+}
+
